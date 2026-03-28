@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c50066fe62042544793166c1e96c4dfa, type: 3}
+  m_Name: ScammerDialogue
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  npcName: Unknown
+  npcPotrait: {fileID: 6158736609001130521, guid: 7124a5a84969a9141b98088c496cc16c, type: 3}
+  dialogueLines:
+  - Sir, one minute? You use UPI?
+  - "You\u2019re eligible for a cashback upgrade."
+  - "Selected users get \u20B95,000 bonus."
+  - Scan this QR and
+  - Refund reflects instantly.
+  - "We\u2019re partnered with leading banks."
+  - '[SYSTEM] You are about to authorize a payment request.'
+  - '[SYSTEM] Your financial details has been compromised .'
+  autoProgressLines: 0001000100000000
+  endDialogueLines: 0000000000000000
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voicSound: {fileID: 0}
+  voicePitch: 1
+  choices:
+  - dialogueIndex: 0
+    choices:
+    - 'Yes '
+    - 'No '
+    nextDialogueIndexes: 0100000000000000
+    givesQuest: 0000
+  - dialogueIndex: 2
+    choices:
+    - 'Verify how ? '
+    - Sounds fake .
+    nextDialogueIndexes: 0300000000000000
+    givesQuest: 0000
+  - dialogueIndex: 4
+    choices:
+    - Scan
+    - Which company?
+    - Leave
+    nextDialogueIndexes: 060000000500000000000000
+    givesQuest: 00000000
+  infoLines:
+  - dialogueIndex: 1
+    infoText: Cashback - Money given back after payment..
+  - dialogueIndex: 4
+    infoText: Refund - Money returned after a payment.
+  questSequence: []

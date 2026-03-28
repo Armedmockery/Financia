@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c50066fe62042544793166c1e96c4dfa, type: 3}
+  m_Name: Bhishiwoman
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  npcName: A Woman
+  npcPotrait: {fileID: -8406110673211288041, guid: 8ad9f71c0e215ab4a98a7a2e0e6624a1, type: 3}
+  dialogueLines:
+  - Are you looking for someone?
+  - "\u201CBhishi.\u201D "
+  - "There are 12 of us. Each month, \u20B93,000."
+  - "Total \u20B936,000.Every month, one person takes the full amount"
+  - Sometimes we draw lots.Sometimes we bid.
+  - Sometimes urgency decides.
+  - "That\u2019s why this exists."
+  - "If your turn comes early\u2026"
+  - You get access before saving the full amount yourself.
+  - That is risk.We choose members carefully.
+  - We choose members carefully.Trust matters.
+  - "Before banks gave loans\u2026"
+  - "Before apps\u2026We relied on each other."
+  - "Both.\u201D \u201CIf your turn is last\u2026\u201D  \u201CYou saved slowly.\u201D"
+  - "If your turn is first\u2026\u201D  \u201CYou borrowed from the group.\u201D "
+  - "Safer than borrowing from strangers.\u201D  \u201CLess safe than a bank"
+  - "Banks run on contracts.\u201D  \u201CWe run on reputation.\u201D"
+  autoProgressLines: 00000101010001010000000000000000
+  endDialogueLines: 00000000000000
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voicSound: {fileID: 0}
+  voicePitch: 1
+  choices:
+  - dialogueIndex: 0
+    choices:
+    - What are you all doing?
+    - Just passing by.
+    nextDialogueIndexes: 0100000001000000
+    givesQuest: 0000
+  - dialogueIndex: 1
+    choices:
+    - How does it work?
+    - Just passing by.
+    nextDialogueIndexes: 0200000000000000
+    givesQuest: 0000
+  - dialogueIndex: 3
+    choices:
+    - 'Who decides who gets it first? '
+    - 'What if someone needs money urgently? '
+    - What if someone stops paying?
+    nextDialogueIndexes: 040000000600000009000000
+    givesQuest: 000000
+  - dialogueIndex: 12
+    choices:
+    - 'Is it saving or borrowing ?  '
+    - Is it safe
+    nextDialogueIndexes: 0d0000000f000000
+    givesQuest: 0000
+  infoLines:
+  - dialogueIndex: 1
+    infoText: Bhishi -  A rotating savings system where a fixed group contributes
+      money regularly, and the total amount is given to one member in rotation.
+  - dialogueIndex: 1
+    infoText: Bhishi -  A rotating savings system where a fixed group contributes
+      money regularly, and the total amount is given to one member in rotation.
+  - dialogueIndex: 3
+    infoText: 'Contribution - The fixed amount each member deposits regularly.
+
+      LumpSum
+      - A total amount paid at once, instead of in parts.
+
+'
+  - dialogueIndex: 4
+    infoText: 'Bid - Members offer to take a slightly smaller payout in exchange
+      for receiving the fund earlier. The discounted amount benefits the group.
+
+'
+  - dialogueIndex: 7
+    infoText: 'Liquidity - The ease with which a person can access usable cash when
+      needed.
+
+
+'
+  - dialogueIndex: 7
+    infoText: 'Default - The possibility of financial loss or uncertainty. '
+  - dialogueIndex: 7
+    infoText: 'Informal finance -Financial systems operating without formal banking
+      regulation. '
+  - dialogueIndex: 7
+    infoText: 'When community relationships and social standing ensure compliance
+      instead of legal contracts. '
+  questSequence: []

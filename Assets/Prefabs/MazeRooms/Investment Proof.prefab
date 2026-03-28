@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3424000684988636651
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 313856357875180679, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 4804446361586417100, guid: 2e362ee97055144d081369a63deb2515, type: 3}
+    - target: {fileID: 3645773607599901384, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: rewardIcon
+      value: 
+      objectReference: {fileID: 4804446361586417100, guid: 2e362ee97055144d081369a63deb2515, type: 3}
+    - target: {fileID: 4933863357483099826, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: Name
+      value: 'Investment Proof '
+      objectReference: {fileID: 0}
+    - target: {fileID: 6722882228190957040, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6722882228190957040, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6722882228190957040, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6722882228190957040, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6722882228190957040, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6722882228190957040, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6722882228190957040, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 6722882228190957040, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 6722882228190957040, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6722882228190957040, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6722882228190957040, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6722882228190957040, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6722882228190957040, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6722882228190957040, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6722882228190957040, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6722882228190957040, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 6.2811
+      objectReference: {fileID: 0}
+    - target: {fileID: 6722882228190957040, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 1.76
+      objectReference: {fileID: 0}
+    - target: {fileID: 6722882228190957040, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6722882228190957040, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6722882228190957040, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7399587908929927703, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: m_Name
+      value: Investment Proof
+      objectReference: {fileID: 0}
+    - target: {fileID: 8154130989745461087, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 4804446361586417100, guid: 2e362ee97055144d081369a63deb2515, type: 3}
+    m_RemovedComponents:
+    - {fileID: 4933863357483099826, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+    - {fileID: 2455512741755574351, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7399587908929927703, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -1922047800278682045}
+  m_SourcePrefab: {fileID: 100100000, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+--- !u!1 &5275091222979553276 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7399587908929927703, guid: 4458125f0feda4a7685a13dc9a25f480, type: 3}
+  m_PrefabInstance: {fileID: 3424000684988636651}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-1922047800278682045
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5275091222979553276}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7e1ce50e9fa24b6288b79566725f7fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TaxRewardPickup
+  rewardName: 'Investment Proof '
+  rewardIcon: {fileID: 4804446361586417100, guid: 2e362ee97055144d081369a63deb2515, type: 3}
+  showPopup: 1

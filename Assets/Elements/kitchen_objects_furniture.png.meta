@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: e3844939df4e91b43b4a7d2dd74f4ab9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8915973087602918404
+    second: kitchen_objects_furniture_0
+  - first:
+      213: -403119491437655977
+    second: kitchen_objects_furniture_1
+  - first:
+      213: -3606269719395047195
+    second: kitchen_objects_furniture_2
+  - first:
+      213: 9135507509843454847
+    second: kitchen_objects_furniture_3
+  - first:
+      213: -8647802009985620477
+    second: kitchen_objects_furniture_4
+  - first:
+      213: 4659580009161789632
+    second: kitchen_objects_furniture_5
+  - first:
+      213: 2281071672408000578
+    second: kitchen_objects_furniture_6
+  - first:
+      213: 1530111217516110686
+    second: kitchen_objects_furniture_7
+  - first:
+      213: -247763631311415526
+    second: kitchen_objects_furniture_8
+  - first:
+      213: 7343442129208736793
+    second: kitchen_objects_furniture_9
+  - first:
+      213: 8828738960894008589
+    second: kitchen_objects_furniture_10
+  - first:
+      213: 4467003293447859242
+    second: kitchen_objects_furniture_11
+  - first:
+      213: -6719626951358440330
+    second: kitchen_objects_furniture_12
+  - first:
+      213: -4498378602825769532
+    second: kitchen_objects_furniture_13
+  - first:
+      213: -3018868608516450052
+    second: kitchen_objects_furniture_14
+  - first:
+      213: 7240803600010713503
+    second: kitchen_objects_furniture_15
+  - first:
+      213: 4187887121666989175
+    second: kitchen_objects_furniture_16
+  - first:
+      213: -1433725629037513461
+    second: kitchen_objects_furniture_17
+  - first:
+      213: -4036520519366727145
+    second: kitchen_objects_furniture_18
+  - first:
+      213: 344053396065819897
+    second: kitchen_objects_furniture_19
+  - first:
+      213: 1317819505060206629
+    second: kitchen_objects_furniture_20
+  - first:
+      213: 1502866527110638686
+    second: kitchen_objects_furniture_21
+  - first:
+      213: -8903695180821717258
+    second: kitchen_objects_furniture_22
+  - first:
+      213: 3884661974194017908
+    second: kitchen_objects_furniture_23
+  - first:
+      213: 3007303840914044283
+    second: kitchen_objects_furniture_24
+  - first:
+      213: -1477580413083595844
+    second: kitchen_objects_furniture_25
+  - first:
+      213: -683750421532241123
+    second: kitchen_objects_furniture_26
+  - first:
+      213: 5568811926817788820
+    second: kitchen_objects_furniture_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 661
+        width: 252
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb3c7637b9144480800000000000000
+      internalID: -8915973087602918404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_1
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 755
+        width: 248
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75882d655f4d76af0800000000000000
+      internalID: -403119491437655977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_2
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 755
+        width: 167
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8e53b0cc4f3fdc0800000000000000
+      internalID: -3606269719395047195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_3
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 755
+        width: 150
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7be12f9da7d7ce70800000000000000
+      internalID: 9135507509843454847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_4
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 759
+        width: 213
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306e5e2d3e5dcf780800000000000000
+      internalID: -8647802009985620477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 638
+        width: 130
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c09990b4572aa040800000000000000
+      internalID: 4659580009161789632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 437
+        width: 156
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248c515b99ef7af10800000000000000
+      internalID: 2281071672408000578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_7
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 437
+        width: 137
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5363e2ab0c0c3510800000000000000
+      internalID: 1530111217516110686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_8
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 631
+        width: 153
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a171c6f3a44cf8cf0800000000000000
+      internalID: -247763631311415526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_9
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 604
+        width: 117
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cff1495b529e560800000000000000
+      internalID: 7343442129208736793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_10
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 647
+        width: 178
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d1dbaee4bf58a70800000000000000
+      internalID: 8828738960894008589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 438
+        width: 116
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ca57404dbfdfd30800000000000000
+      internalID: 4467003293447859242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 479
+        width: 97
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c932dc3e61fb2a0800000000000000
+      internalID: -6719626951358440330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_13
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 437
+        width: 170
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd1a518e7c8291c0800000000000000
+      internalID: -4498378602825769532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_14
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 434
+        width: 94
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf89cc5cef2da16d0800000000000000
+      internalID: -3018868608516450052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_15
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 437
+        width: 112
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f991203c2808c7460800000000000000
+      internalID: 7240803600010713503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_16
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 243
+        width: 221
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cd466162d5e1a30800000000000000
+      internalID: 4187887121666989175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 246
+        width: 194
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0578d7f2226a1ce0800000000000000
+      internalID: -1433725629037513461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_18
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 267
+        width: 172
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a229a59f56bf7c0800000000000000
+      internalID: -4036520519366727145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_19
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 246
+        width: 142
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc1548adb256c400800000000000000
+      internalID: 344053396065819897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_20
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 247
+        width: 157
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528d1359bd5d94210800000000000000
+      internalID: 1317819505060206629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_21
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 251
+        width: 122
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c2145d4214bd410800000000000000
+      internalID: 1502866527110638686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_22
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 90
+        width: 168
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe93c62868bf6480800000000000000
+      internalID: -8903695180821717258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_23
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 48
+        width: 167
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4765d44db7719e530800000000000000
+      internalID: 3884661974194017908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_24
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 48
+        width: 86
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b757951f8e61cb920800000000000000
+      internalID: 3007303840914044283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_25
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 48
+        width: 101
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbc31f51749e7be0800000000000000
+      internalID: -1477580413083595844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_26
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 43
+        width: 70
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d131c814d94d286f0800000000000000
+      internalID: -683750421532241123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchen_objects_furniture_27
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 47
+        width: 94
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493deee41f4684d40800000000000000
+      internalID: 5568811926817788820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8805a71c87d471a41813be37fdfdb4b8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kitchen_objects_furniture_0: -8915973087602918404
+      kitchen_objects_furniture_1: -403119491437655977
+      kitchen_objects_furniture_10: 8828738960894008589
+      kitchen_objects_furniture_11: 4467003293447859242
+      kitchen_objects_furniture_12: -6719626951358440330
+      kitchen_objects_furniture_13: -4498378602825769532
+      kitchen_objects_furniture_14: -3018868608516450052
+      kitchen_objects_furniture_15: 7240803600010713503
+      kitchen_objects_furniture_16: 4187887121666989175
+      kitchen_objects_furniture_17: -1433725629037513461
+      kitchen_objects_furniture_18: -4036520519366727145
+      kitchen_objects_furniture_19: 344053396065819897
+      kitchen_objects_furniture_2: -3606269719395047195
+      kitchen_objects_furniture_20: 1317819505060206629
+      kitchen_objects_furniture_21: 1502866527110638686
+      kitchen_objects_furniture_22: -8903695180821717258
+      kitchen_objects_furniture_23: 3884661974194017908
+      kitchen_objects_furniture_24: 3007303840914044283
+      kitchen_objects_furniture_25: -1477580413083595844
+      kitchen_objects_furniture_26: -683750421532241123
+      kitchen_objects_furniture_27: 5568811926817788820
+      kitchen_objects_furniture_3: 9135507509843454847
+      kitchen_objects_furniture_4: -8647802009985620477
+      kitchen_objects_furniture_5: 4659580009161789632
+      kitchen_objects_furniture_6: 2281071672408000578
+      kitchen_objects_furniture_7: 1530111217516110686
+      kitchen_objects_furniture_8: -247763631311415526
+      kitchen_objects_furniture_9: 7343442129208736793
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

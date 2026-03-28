@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 480272866b4151a4cb01e0d394bbb1d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1574584985176900432
+    second: billboards_graphic_0
+  - first:
+      213: 4085369752743210205
+    second: billboards_graphic_1
+  - first:
+      213: 7720768950441339687
+    second: billboards_graphic_2
+  - first:
+      213: 5111617867517137790
+    second: billboards_graphic_3
+  - first:
+      213: -6232125274252791936
+    second: billboards_graphic_4
+  - first:
+      213: -3612714634613336428
+    second: billboards_graphic_5
+  - first:
+      213: -3426447875399484179
+    second: billboards_graphic_6
+  - first:
+      213: -7120455279444755980
+    second: billboards_graphic_7
+  - first:
+      213: -5900414109756612484
+    second: billboards_graphic_8
+  - first:
+      213: 6379509423653268351
+    second: billboards_graphic_9
+  - first:
+      213: -8973756038655669809
+    second: billboards_graphic_10
+  - first:
+      213: 4429893193776066369
+    second: billboards_graphic_11
+  - first:
+      213: 6941188257644644506
+    second: billboards_graphic_12
+  - first:
+      213: -7878557916578854662
+    second: billboards_graphic_13
+  - first:
+      213: -1421830927936688158
+    second: billboards_graphic_14
+  - first:
+      213: -5701263166166389351
+    second: billboards_graphic_15
+  - first:
+      213: 930573867800717116
+    second: billboards_graphic_16
+  - first:
+      213: -5280103561327093999
+    second: billboards_graphic_17
+  - first:
+      213: 5282942296755017951
+    second: billboards_graphic_18
+  - first:
+      213: -2887246762382423464
+    second: billboards_graphic_19
+  - first:
+      213: 4177389238065865963
+    second: billboards_graphic_20
+  - first:
+      213: 9134757892646910488
+    second: billboards_graphic_21
+  - first:
+      213: -1772239935220450156
+    second: billboards_graphic_22
+  - first:
+      213: -9157069873004293715
+    second: billboards_graphic_23
+  - first:
+      213: 7852201048852306940
+    second: billboards_graphic_24
+  - first:
+      213: 8345112450625545921
+    second: billboards_graphic_25
+  - first:
+      213: -2695139611939774956
+    second: billboards_graphic_26
+  - first:
+      213: -7197202962839863361
+    second: billboards_graphic_27
+  - first:
+      213: -297108729887928365
+    second: billboards_graphic_28
+  - first:
+      213: 8602649371858387864
+    second: billboards_graphic_29
+  - first:
+      213: -6314135485230199755
+    second: billboards_graphic_30
+  - first:
+      213: -152379643500414381
+    second: billboards_graphic_31
+  - first:
+      213: -4292255795865535689
+    second: billboards_graphic_32
+  - first:
+      213: 738736530502337318
+    second: billboards_graphic_33
+  - first:
+      213: -1136494254385709172
+    second: billboards_graphic_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: billboards_graphic_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 593
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcfdd96c43f52ae0800000000000000
+      internalID: -1574584985176900432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 593
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc6268152622b830800000000000000
+      internalID: 4085369752743210205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 593
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bebeb347ea52b60800000000000000
+      internalID: 7720768950441339687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_3
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 593
+        width: 135
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7316e43e5d10f640800000000000000
+      internalID: 5111617867517137790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_4
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 593
+        width: 134
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fad60151b0389a0800000000000000
+      internalID: -6232125274252791936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_5
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 386
+        width: 96
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49654094e2f0dddc0800000000000000
+      internalID: -3612714634613336428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_6
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 386
+        width: 38
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decfb69bfcfc270d0800000000000000
+      internalID: -3426447875399484179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_7
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 386
+        width: 157
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9f3ad26af0f2d90800000000000000
+      internalID: -7120455279444755980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_8
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 386
+        width: 184
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70214001a48d1ea0800000000000000
+      internalID: -5900414109756612484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 479
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b2c1e4502988850800000000000000
+      internalID: 6379509423653268351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 479
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc989e68d60d67380800000000000000
+      internalID: -8973756038655669809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 479
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f61ff93642a7d30800000000000000
+      internalID: 4429893193776066369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_12
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 479
+        width: 134
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a988500c1fd045060800000000000000
+      internalID: 6941188257644644506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_13
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 479
+        width: 134
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8c9f7315db9a290800000000000000
+      internalID: -7878557916578854662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 364
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef6ba1ed44a44ce0800000000000000
+      internalID: -1421830927936688158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 364
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d22a16b5b01e0b0800000000000000
+      internalID: -5701263166166389351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 364
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37e58b90001aec00800000000000000
+      internalID: 930573867800717116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_17
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 364
+        width: 134
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117d2d149cd49b6b0800000000000000
+      internalID: -5280103561327093999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_18
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 363
+        width: 134
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd818f65708c05940800000000000000
+      internalID: 5282942296755017951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 248
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a8c4ded507ee7d0800000000000000
+      internalID: -2887246762382423464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 247
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4a477116119f930800000000000000
+      internalID: 4177389238065865963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 248
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a3a64c7ed25ce70800000000000000
+      internalID: 9134757892646910488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_22
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 247
+        width: 134
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c7c6c2b2db767e0800000000000000
+      internalID: -1772239935220450156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_23
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 247
+        width: 134
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1d52c777d8be080800000000000000
+      internalID: -9157069873004293715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_24
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 9
+        width: 84
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb9acd404f98fc60800000000000000
+      internalID: 7852201048852306940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_25
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 8
+        width: 151
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6a93e3f8bcfc370800000000000000
+      internalID: 8345112450625545921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_26
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 8
+        width: 264
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ede3a6dc0f89ad0800000000000000
+      internalID: -2695139611939774956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 131
+        width: 74
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf7a87a9066e1c90800000000000000
+      internalID: -7197202962839863361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 131
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfcc5f2f2570ebf0800000000000000
+      internalID: -297108729887928365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_29
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 131
+        width: 96
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8934bd06600c26770800000000000000
+      internalID: 8602649371858387864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_30
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 135
+        width: 134
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c4a2bda3faf58a0800000000000000
+      internalID: -6314135485230199755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_31
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 135
+        width: 134
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a38268583a2edf0800000000000000
+      internalID: -152379643500414381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 18
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bb2525818de64c0800000000000000
+      internalID: -4292255795865535689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 18
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6234233e5f4804a00800000000000000
+      internalID: 738736530502337318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billboards_graphic_34
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 18
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f311e3f7c5a30f0800000000000000
+      internalID: -1136494254385709172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      billboards_graphic_0: -1574584985176900432
+      billboards_graphic_1: 4085369752743210205
+      billboards_graphic_10: -8973756038655669809
+      billboards_graphic_11: 4429893193776066369
+      billboards_graphic_12: 6941188257644644506
+      billboards_graphic_13: -7878557916578854662
+      billboards_graphic_14: -1421830927936688158
+      billboards_graphic_15: -5701263166166389351
+      billboards_graphic_16: 930573867800717116
+      billboards_graphic_17: -5280103561327093999
+      billboards_graphic_18: 5282942296755017951
+      billboards_graphic_19: -2887246762382423464
+      billboards_graphic_2: 7720768950441339687
+      billboards_graphic_20: 4177389238065865963
+      billboards_graphic_21: 9134757892646910488
+      billboards_graphic_22: -1772239935220450156
+      billboards_graphic_23: -9157069873004293715
+      billboards_graphic_24: 7852201048852306940
+      billboards_graphic_25: 8345112450625545921
+      billboards_graphic_26: -2695139611939774956
+      billboards_graphic_27: -7197202962839863361
+      billboards_graphic_28: -297108729887928365
+      billboards_graphic_29: 8602649371858387864
+      billboards_graphic_3: 5111617867517137790
+      billboards_graphic_30: -6314135485230199755
+      billboards_graphic_31: -152379643500414381
+      billboards_graphic_32: -4292255795865535689
+      billboards_graphic_33: 738736530502337318
+      billboards_graphic_34: -1136494254385709172
+      billboards_graphic_4: -6232125274252791936
+      billboards_graphic_5: -3612714634613336428
+      billboards_graphic_6: -3426447875399484179
+      billboards_graphic_7: -7120455279444755980
+      billboards_graphic_8: -5900414109756612484
+      billboards_graphic_9: 6379509423653268351
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

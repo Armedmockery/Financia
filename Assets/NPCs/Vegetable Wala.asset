@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c50066fe62042544793166c1e96c4dfa, type: 3}
+  m_Name: Vegetable Wala
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  npcName: Vendor
+  npcPotrait: {fileID: 0}
+  dialogueLines:
+  - 'Fresh veggies came in this morning '
+  - Best Peas for Pavbhaji
+  autoProgressLines: 0100
+  endDialogueLines: 0001
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voicSound: {fileID: 8300000, guid: 290ab61395829904b9f1ca05b5588caf, type: 3}
+  voicePitch: 1
+  choices: []

@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: ac79db8cfaa05024d84f339abbf5e545
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7556383887500399719
+    second: billoards_simple_0
+  - first:
+      213: -2373293802569201143
+    second: billoards_simple_1
+  - first:
+      213: -5948593790298163306
+    second: billoards_simple_2
+  - first:
+      213: -2358063019240120578
+    second: billoards_simple_3
+  - first:
+      213: 4488185716492459246
+    second: billoards_simple_4
+  - first:
+      213: -2670101472560574997
+    second: billoards_simple_5
+  - first:
+      213: -7281643785567271992
+    second: billoards_simple_6
+  - first:
+      213: -1585745611488934205
+    second: billoards_simple_7
+  - first:
+      213: -3899872667680875002
+    second: billoards_simple_8
+  - first:
+      213: 2942851353176633168
+    second: billoards_simple_9
+  - first:
+      213: -6349128507451041282
+    second: billoards_simple_10
+  - first:
+      213: -6983922044702283729
+    second: billoards_simple_11
+  - first:
+      213: 4800897431550011709
+    second: billoards_simple_12
+  - first:
+      213: 4674545192852291925
+    second: billoards_simple_13
+  - first:
+      213: -5609380934871290932
+    second: billoards_simple_14
+  - first:
+      213: -7856095747680930067
+    second: billoards_simple_15
+  - first:
+      213: 4397501871368099623
+    second: billoards_simple_16
+  - first:
+      213: 2289738249471659841
+    second: billoards_simple_17
+  - first:
+      213: -5057848398664102263
+    second: billoards_simple_18
+  - first:
+      213: 7602163737273916730
+    second: billoards_simple_19
+  - first:
+      213: 6701798656974888108
+    second: billoards_simple_20
+  - first:
+      213: -7352218700558784757
+    second: billoards_simple_21
+  - first:
+      213: 2011056738520144776
+    second: billoards_simple_22
+  - first:
+      213: -3667051150122365639
+    second: billoards_simple_23
+  - first:
+      213: -7126741962298411139
+    second: billoards_simple_24
+  - first:
+      213: -6657316411919145669
+    second: billoards_simple_25
+  - first:
+      213: 3617527405579754882
+    second: billoards_simple_26
+  - first:
+      213: 772213484857759065
+    second: billoards_simple_27
+  - first:
+      213: 1056898660833541835
+    second: billoards_simple_28
+  - first:
+      213: -9207511708235151712
+    second: billoards_simple_29
+  - first:
+      213: -3325719512672489964
+    second: billoards_simple_30
+  - first:
+      213: -7777196098026974154
+    second: billoards_simple_31
+  - first:
+      213: 3528755048481697277
+    second: billoards_simple_32
+  - first:
+      213: -7704012042676175906
+    second: billoards_simple_33
+  - first:
+      213: 3848590774583135786
+    second: billoards_simple_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: billoards_simple_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 593
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bad07c3e4522790800000000000000
+      internalID: -7556383887500399719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 593
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a0a3e5cdd501fd0800000000000000
+      internalID: -2373293802569201143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 593
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697fe28f679527da0800000000000000
+      internalID: -5948593790298163306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_3
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 593
+        width: 134
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe15347d2a764fd0800000000000000
+      internalID: -2358063019240120578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_4
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 593
+        width: 134
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecd385312d394e30800000000000000
+      internalID: 4488185716492459246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_5
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 386
+        width: 96
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed87c58bd4e1fad0800000000000000
+      internalID: -2670101472560574997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_6
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 386
+        width: 38
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3055c8e8762fa90800000000000000
+      internalID: -7281643785567271992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_7
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 386
+        width: 157
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6411b94cc4ef9e0800000000000000
+      internalID: -1585745611488934205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_8
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 386
+        width: 184
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e50ad987ed0e9c0800000000000000
+      internalID: -3899872667680875002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 480
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05feedcb6bb17d820800000000000000
+      internalID: 2942851353176633168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 479
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef91318f24d53e7a0800000000000000
+      internalID: -6349128507451041282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 479
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28208a17ef141f90800000000000000
+      internalID: -6983922044702283729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_12
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 479
+        width: 135
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39af9a17c630a240800000000000000
+      internalID: 4800897431550011709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_13
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 479
+        width: 134
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551887a06125fd040800000000000000
+      internalID: 4674545192852291925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 364
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbe52f62c97722b0800000000000000
+      internalID: -5609380934871290932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 364
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de675067a8a89f290800000000000000
+      internalID: -7856095747680930067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 364
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727d20e27a0170d30800000000000000
+      internalID: 4397501871368099623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_17
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 364
+        width: 134
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f026c6ec8c6cf10800000000000000
+      internalID: 2289738249471659841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_18
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 363
+        width: 134
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e09d5dda9eec9b0800000000000000
+      internalID: -5057848398664102263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 248
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d519c14af408960800000000000000
+      internalID: 7602163737273916730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 247
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac9d21fe52910d50800000000000000
+      internalID: 6701798656974888108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 248
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07a53aab0ca7f990800000000000000
+      internalID: -7352218700558784757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_22
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 247
+        width: 133
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b16aad275b8eb10800000000000000
+      internalID: 2011056738520144776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_23
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 247
+        width: 134
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93dc4c768640c1dc0800000000000000
+      internalID: -3667051150122365639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_24
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 9
+        width: 85
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d773553c1f9b81d90800000000000000
+      internalID: -7126741962298411139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_25
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 8
+        width: 151
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b356e2ecef57c93a0800000000000000
+      internalID: -6657316411919145669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_26
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 8
+        width: 263
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d52d6420a043230800000000000000
+      internalID: 3617527405579754882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 131
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95596b7b21477ba00800000000000000
+      internalID: 772213484857759065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_28
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 131
+        width: 75
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bceb19a7bbbdaae00800000000000000
+      internalID: 1056898660833541835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_29
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 131
+        width: 96
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6c46582e8583080800000000000000
+      internalID: -9207511708235151712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_30
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 135
+        width: 133
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e229049bba8d1d0800000000000000
+      internalID: -3325719512672489964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_31
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 135
+        width: 134
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6345c8caa59d11490800000000000000
+      internalID: -7777196098026974154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 18
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd2e1c3508a8f030800000000000000
+      internalID: 3528755048481697277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 18
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb74f26dd9d51590800000000000000
+      internalID: -7704012042676175906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: billoards_simple_34
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 18
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e8fd43be0f86530800000000000000
+      internalID: 3848590774583135786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      billoards_simple_0: -7556383887500399719
+      billoards_simple_1: -2373293802569201143
+      billoards_simple_10: -6349128507451041282
+      billoards_simple_11: -6983922044702283729
+      billoards_simple_12: 4800897431550011709
+      billoards_simple_13: 4674545192852291925
+      billoards_simple_14: -5609380934871290932
+      billoards_simple_15: -7856095747680930067
+      billoards_simple_16: 4397501871368099623
+      billoards_simple_17: 2289738249471659841
+      billoards_simple_18: -5057848398664102263
+      billoards_simple_19: 7602163737273916730
+      billoards_simple_2: -5948593790298163306
+      billoards_simple_20: 6701798656974888108
+      billoards_simple_21: -7352218700558784757
+      billoards_simple_22: 2011056738520144776
+      billoards_simple_23: -3667051150122365639
+      billoards_simple_24: -7126741962298411139
+      billoards_simple_25: -6657316411919145669
+      billoards_simple_26: 3617527405579754882
+      billoards_simple_27: 772213484857759065
+      billoards_simple_28: 1056898660833541835
+      billoards_simple_29: -9207511708235151712
+      billoards_simple_3: -2358063019240120578
+      billoards_simple_30: -3325719512672489964
+      billoards_simple_31: -7777196098026974154
+      billoards_simple_32: 3528755048481697277
+      billoards_simple_33: -7704012042676175906
+      billoards_simple_34: 3848590774583135786
+      billoards_simple_4: 4488185716492459246
+      billoards_simple_5: -2670101472560574997
+      billoards_simple_6: -7281643785567271992
+      billoards_simple_7: -1585745611488934205
+      billoards_simple_8: -3899872667680875002
+      billoards_simple_9: 2942851353176633168
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

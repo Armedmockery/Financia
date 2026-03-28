@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: b7cbc9a8c172ef044b5bc5ba1492a9a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7837902204245919783
+    second: mall_interior_0
+  - first:
+      213: 7200906233936282934
+    second: mall_interior_1
+  - first:
+      213: 1237473985596416279
+    second: mall_interior_2
+  - first:
+      213: 4570955673817722387
+    second: mall_interior_3
+  - first:
+      213: -1060035331889181238
+    second: mall_interior_4
+  - first:
+      213: 1621915415625109303
+    second: mall_interior_5
+  - first:
+      213: 8037476287693451990
+    second: mall_interior_6
+  - first:
+      213: 9184440170316356530
+    second: mall_interior_7
+  - first:
+      213: 6109065974648503203
+    second: mall_interior_8
+  - first:
+      213: -6274870894470164336
+    second: mall_interior_9
+  - first:
+      213: 4089233198133007979
+    second: mall_interior_10
+  - first:
+      213: -6683205913395322557
+    second: mall_interior_11
+  - first:
+      213: -723013066188780396
+    second: mall_interior_12
+  - first:
+      213: -4978163763478084366
+    second: mall_interior_13
+  - first:
+      213: -3997134165672263512
+    second: mall_interior_14
+  - first:
+      213: -8876407946428017827
+    second: mall_interior_15
+  - first:
+      213: -2290404962724680420
+    second: mall_interior_16
+  - first:
+      213: 6439015698090692118
+    second: mall_interior_17
+  - first:
+      213: -2927451816311683162
+    second: mall_interior_18
+  - first:
+      213: 3855221367529321671
+    second: mall_interior_19
+  - first:
+      213: -2708143769999828980
+    second: mall_interior_20
+  - first:
+      213: 5221753619899480767
+    second: mall_interior_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mall_interior_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 294
+        width: 140
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7bba3e87d2a3390800000000000000
+      internalID: -7837902204245919783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_interior_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 294
+        width: 138
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6350ba65112cee360800000000000000
+      internalID: 7200906233936282934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_interior_2
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 294
+        width: 139
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711e24298046c2110800000000000000
+      internalID: 1237473985596416279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_interior_3
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 295
+        width: 105
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e26f5a7fb4f6f30800000000000000
+      internalID: 4570955673817722387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_interior_4
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 295
+        width: 105
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdc1616b7ff941f0800000000000000
+      internalID: -1060035331889181238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_interior_5
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 295
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f801c2a73328610800000000000000
+      internalID: 1621915415625109303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_interior_6
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 295
+        width: 63
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2f79a691ada8f60800000000000000
+      internalID: 8037476287693451990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_interior_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 160
+        width: 137
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbd8847cafa57f70800000000000000
+      internalID: 9184440170316356530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_interior_8
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 160
+        width: 139
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab79500323c7c450800000000000000
+      internalID: 6109065974648503203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_interior_9
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 160
+        width: 68
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0901babca2e2be8a0800000000000000
+      internalID: -6274870894470164336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_interior_10
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 160
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66d3729defdfb830800000000000000
+      internalID: 4089233198133007979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_interior_11
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 161
+        width: 108
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341284381ab7043a0800000000000000
+      internalID: -6683205913395322557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_interior_12
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 161
+        width: 110
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c0add627757f5f0800000000000000
+      internalID: -723013066188780396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_interior_13
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 161
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4ca2cbe620aeab0800000000000000
+      internalID: -4978163763478084366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_interior_14
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 161
+        width: 68
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0078f67a35788c0800000000000000
+      internalID: -3997134165672263512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_interior_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 27
+        width: 135
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5314bf700aa0d480800000000000000
+      internalID: -8876407946428017827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_interior_16
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 27
+        width: 137
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1de00d42d8d630e0800000000000000
+      internalID: -2290404962724680420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_interior_17
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 27
+        width: 63
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e0cdb79aafb5950800000000000000
+      internalID: 6439015698090692118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_interior_18
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 27
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a78ba7551a9f57d0800000000000000
+      internalID: -2927451816311683162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_interior_19
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 28
+        width: 168
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4b41e686f708530800000000000000
+      internalID: 3855221367529321671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_interior_20
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 28
+        width: 161
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08197ce69dba6ad0800000000000000
+      internalID: -2708143769999828980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_interior_21
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 28
+        width: 135
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbaf7b25045677840800000000000000
+      internalID: 5221753619899480767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mall_interior_0: -7837902204245919783
+      mall_interior_1: 7200906233936282934
+      mall_interior_10: 4089233198133007979
+      mall_interior_11: -6683205913395322557
+      mall_interior_12: -723013066188780396
+      mall_interior_13: -4978163763478084366
+      mall_interior_14: -3997134165672263512
+      mall_interior_15: -8876407946428017827
+      mall_interior_16: -2290404962724680420
+      mall_interior_17: 6439015698090692118
+      mall_interior_18: -2927451816311683162
+      mall_interior_19: 3855221367529321671
+      mall_interior_2: 1237473985596416279
+      mall_interior_20: -2708143769999828980
+      mall_interior_21: 5221753619899480767
+      mall_interior_3: 4570955673817722387
+      mall_interior_4: -1060035331889181238
+      mall_interior_5: 1621915415625109303
+      mall_interior_6: 8037476287693451990
+      mall_interior_7: 9184440170316356530
+      mall_interior_8: 6109065974648503203
+      mall_interior_9: -6274870894470164336
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

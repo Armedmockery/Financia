@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c50066fe62042544793166c1e96c4dfa, type: 3}
+  m_Name: woman 2 dialogue
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  npcName: 'Citizen '
+  npcPotrait: {fileID: -8406110673211288041, guid: 8ad9f71c0e215ab4a98a7a2e0e6624a1, type: 3}
+  dialogueLines:
+  - 'Oh i miss the times when i was in this college '
+  - 'So much has changed since then '
+  autoProgressLines: 0100
+  endDialogueLines: 0001
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voicSound: {fileID: 8300000, guid: 41e2c8c853ed08946ac8fafc97a2ea7e, type: 3}
+  voicePitch: 1
+  choices: []
+  questInProgressIndex: 0
+  questCompletedIndex: 0
+  quest: {fileID: 0}

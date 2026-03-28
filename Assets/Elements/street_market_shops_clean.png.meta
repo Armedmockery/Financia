@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 46c398ca07dffed4abd4c9753ffdc1ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4993434201314682110
+    second: street_market_shops_clean_0
+  - first:
+      213: -2634507306431204366
+    second: street_market_shops_clean_1
+  - first:
+      213: -5884987208078772900
+    second: street_market_shops_clean_2
+  - first:
+      213: 6111938748770146318
+    second: street_market_shops_clean_3
+  - first:
+      213: 8467177648508559637
+    second: street_market_shops_clean_4
+  - first:
+      213: 1028839585833967705
+    second: street_market_shops_clean_5
+  - first:
+      213: -104067747408532085
+    second: street_market_shops_clean_6
+  - first:
+      213: -7182782417477331570
+    second: street_market_shops_clean_7
+  - first:
+      213: -8919083469455089107
+    second: street_market_shops_clean_8
+  - first:
+      213: 7930198657136426524
+    second: street_market_shops_clean_9
+  - first:
+      213: -5192419687037015266
+    second: street_market_shops_clean_10
+  - first:
+      213: -2960686577142392170
+    second: street_market_shops_clean_11
+  - first:
+      213: -2515932972334429181
+    second: street_market_shops_clean_12
+  - first:
+      213: -2909782153175821680
+    second: street_market_shops_clean_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: street_market_shops_clean_0
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 761
+        width: 212
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4e5a223fd3c4540800000000000000
+      internalID: 4993434201314682110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_market_shops_clean_1
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 763
+        width: 197
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f33ff12099507bd0800000000000000
+      internalID: -2634507306431204366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_market_shops_clean_2
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 757
+        width: 206
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c553fb27053545ea0800000000000000
+      internalID: -5884987208078772900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_market_shops_clean_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 542
+        width: 238
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08d369d8e7f1d450800000000000000
+      internalID: 6111938748770146318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_market_shops_clean_4
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 539
+        width: 228
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511ea75d535718570800000000000000
+      internalID: 8467177648508559637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_market_shops_clean_5
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 539
+        width: 212
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9506e7cf62c274e00800000000000000
+      internalID: 1028839585833967705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_market_shops_clean_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 235
+        width: 321
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8da3236fe64e8ef0800000000000000
+      internalID: -104067747408532085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_market_shops_clean_7
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 244
+        width: 315
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8597538271a15c90800000000000000
+      internalID: -7182782417477331570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_market_shops_clean_8
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 244
+        width: 293
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22221107dc093480800000000000000
+      internalID: -8919083469455089107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_market_shops_clean_9
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e75e4a9a9bd0e60800000000000000
+      internalID: 7930198657136426524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_market_shops_clean_10
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 27
+        width: 95
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1be9652ec1d0f7b0800000000000000
+      internalID: -5192419687037015266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_market_shops_clean_11
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 27
+        width: 99
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a19269e3789e6d0800000000000000
+      internalID: -2960686577142392170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_market_shops_clean_12
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 27
+        width: 111
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c4059aa4c951dd0800000000000000
+      internalID: -2515932972334429181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_market_shops_clean_13
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 0
+        width: 450
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0921f226c806e97d0800000000000000
+      internalID: -2909782153175821680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9642943c45b9aad42b3d419aa15a6b99
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      street_market_shops_clean_0: 4993434201314682110
+      street_market_shops_clean_1: -2634507306431204366
+      street_market_shops_clean_10: -5192419687037015266
+      street_market_shops_clean_11: -2960686577142392170
+      street_market_shops_clean_12: -2515932972334429181
+      street_market_shops_clean_13: -2909782153175821680
+      street_market_shops_clean_2: -5884987208078772900
+      street_market_shops_clean_3: 6111938748770146318
+      street_market_shops_clean_4: 8467177648508559637
+      street_market_shops_clean_5: 1028839585833967705
+      street_market_shops_clean_6: -104067747408532085
+      street_market_shops_clean_7: -7182782417477331570
+      street_market_shops_clean_8: -8919083469455089107
+      street_market_shops_clean_9: 7930198657136426524
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

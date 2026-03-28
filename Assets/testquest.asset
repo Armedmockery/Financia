@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f70b9f608f0e45a78ec60711e65a22a, type: 3}
+  m_Name: testquest
+  m_EditorClassIdentifier: Assembly-CSharp::Quest
+  questID: _e40f4e51-d284-4dcb-9dab-36e5769cd5b0
+  questName: reach location
+  description: 'A financial quest which will hel you understand savings . Right now
+    this is just a practice test quest for us to test properly '
+  objectives:
+  - objectiveID: 1
+    description: 'The objective is to reach this location , Right now assume things
+      since this is a test quest and test objective '
+    type: 2
+    requiredAmount: 1
+    currentAmount: 0
+  questRewards:
+  - type: 2
+    rewardID: 0
+    amount: 100
+  - type: 1
+    rewardID: 0
+    amount: 100
+  - type: 3
+    rewardID: 0
+    amount: 100

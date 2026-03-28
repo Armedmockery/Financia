@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 45df44a0697fd904ba71c5c16150a39e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6150935533269307126
+    second: mall_racks_0
+  - first:
+      213: -6971116548376286
+    second: mall_racks_1
+  - first:
+      213: -4678343556772887247
+    second: mall_racks_2
+  - first:
+      213: -7356493489007949897
+    second: mall_racks_3
+  - first:
+      213: -1554706336519914548
+    second: mall_racks_4
+  - first:
+      213: -994090311192596511
+    second: mall_racks_5
+  - first:
+      213: -3489113246075786503
+    second: mall_racks_6
+  - first:
+      213: 7044348168315584005
+    second: mall_racks_7
+  - first:
+      213: 389068293343472211
+    second: mall_racks_8
+  - first:
+      213: -994294600133751824
+    second: mall_racks_9
+  - first:
+      213: -7095971628662904496
+    second: mall_racks_10
+  - first:
+      213: 1004335315630541419
+    second: mall_racks_11
+  - first:
+      213: -7830915790247553952
+    second: mall_racks_12
+  - first:
+      213: 3009666497889596300
+    second: mall_racks_13
+  - first:
+      213: 6399801780486741308
+    second: mall_racks_14
+  - first:
+      213: -3811325076505748857
+    second: mall_racks_15
+  - first:
+      213: -3449289713732459376
+    second: mall_racks_16
+  - first:
+      213: 3099252786080238961
+    second: mall_racks_17
+  - first:
+      213: 6847488170222906089
+    second: mall_racks_18
+  - first:
+      213: 6287763451956581013
+    second: mall_racks_19
+  - first:
+      213: -8046464005289036087
+    second: mall_racks_20
+  - first:
+      213: -1703302960706281990
+    second: mall_racks_21
+  - first:
+      213: 7347300465456250826
+    second: mall_racks_22
+  - first:
+      213: 573869275470063295
+    second: mall_racks_23
+  - first:
+      213: 3330091899393866916
+    second: mall_racks_24
+  - first:
+      213: -2367778522516329891
+    second: mall_racks_25
+  - first:
+      213: 4999130407751860291
+    second: mall_racks_26
+  - first:
+      213: 468174498530626879
+    second: mall_racks_27
+  - first:
+      213: -7113747192499280384
+    second: mall_racks_28
+  - first:
+      213: -6315810423199827429
+    second: mall_racks_29
+  - first:
+      213: -1769246818563097584
+    second: mall_racks_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mall_racks_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 697
+        width: 184
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe48d847438c5550800000000000000
+      internalID: 6150935533269307126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 697
+        width: 134
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22932727ecb37eff0800000000000000
+      internalID: -6971116548376286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_2
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 697
+        width: 159
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1358051725f231fb0800000000000000
+      internalID: -4678343556772887247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_3
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 697
+        width: 57
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7053be52c78e990800000000000000
+      internalID: -7356493489007949897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_4
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 696
+        width: 55
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb7ea9f2d29c6ae0800000000000000
+      internalID: -1554706336519914548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_5
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 696
+        width: 361
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef25bef0284432f0800000000000000
+      internalID: -994090311192596511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 536
+        width: 129
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faea822dfd249fc0800000000000000
+      internalID: -3489113246075786503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 536
+        width: 118
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ebf96265d82c160800000000000000
+      internalID: 7044348168315584005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_8
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 536
+        width: 153
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35aea1a2d8f366500800000000000000
+      internalID: 389068293343472211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_9
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 536
+        width: 59
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb40f4445e8332f0800000000000000
+      internalID: -994294600133751824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_10
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 536
+        width: 55
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0592c49566b068d90800000000000000
+      internalID: -7095971628662904496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 426
+        width: 140
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ac98bf5ad10fd00800000000000000
+      internalID: 1004335315630541419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 426
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0641c48249ff25390800000000000000
+      internalID: -7830915790247553952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_13
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 426
+        width: 167
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c837a13ebbb74c920800000000000000
+      internalID: 3009666497889596300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_14
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 426
+        width: 61
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d13decfc9a0d850800000000000000
+      internalID: 6399801780486741308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_15
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 426
+        width: 61
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a165349047b1bc0800000000000000
+      internalID: -3811325076505748857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_16
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 426
+        width: 61
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094619dc749a120d0800000000000000
+      internalID: -3449289713732459376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 319
+        width: 167
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dc3770df1c20b20800000000000000
+      internalID: 3099252786080238961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_18
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 319
+        width: 167
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea63d5163a270f50800000000000000
+      internalID: 6847488170222906089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_19
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 319
+        width: 114
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5925e89ab8f924750800000000000000
+      internalID: 6287763451956581013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_20
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 319
+        width: 64
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6b7c28e97355090800000000000000
+      internalID: -8046464005289036087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_21
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 319
+        width: 63
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd1b325bf6ac58e0800000000000000
+      internalID: -1703302960706281990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_22
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 160
+        width: 167
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acff49d78dad6f560800000000000000
+      internalID: 7347300465456250826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_23
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 160
+        width: 167
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb667e7c01bc6f700800000000000000
+      internalID: 573869275470063295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_24
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 159
+        width: 114
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acf6cc50fcd63e20800000000000000
+      internalID: 3330091899393866916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_25
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 159
+        width: 60
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a6d929af5f32fd0800000000000000
+      internalID: -2367778522516329891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_26
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 159
+        width: 113
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34047eb8e9a706540800000000000000
+      internalID: 4999130407751860291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 214
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d80d5d93a4f7600800000000000000
+      internalID: 468174498530626879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_28
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 30
+        width: 167
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006e5216e94e64d90800000000000000
+      internalID: -7113747192499280384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_29
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 31
+        width: 113
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1af678f1ebb958a0800000000000000
+      internalID: -6315810423199827429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mall_racks_30
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 30
+        width: 113
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c7e83746f5277e0800000000000000
+      internalID: -1769246818563097584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mall_racks_0: 6150935533269307126
+      mall_racks_1: -6971116548376286
+      mall_racks_10: -7095971628662904496
+      mall_racks_11: 1004335315630541419
+      mall_racks_12: -7830915790247553952
+      mall_racks_13: 3009666497889596300
+      mall_racks_14: 6399801780486741308
+      mall_racks_15: -3811325076505748857
+      mall_racks_16: -3449289713732459376
+      mall_racks_17: 3099252786080238961
+      mall_racks_18: 6847488170222906089
+      mall_racks_19: 6287763451956581013
+      mall_racks_2: -4678343556772887247
+      mall_racks_20: -8046464005289036087
+      mall_racks_21: -1703302960706281990
+      mall_racks_22: 7347300465456250826
+      mall_racks_23: 573869275470063295
+      mall_racks_24: 3330091899393866916
+      mall_racks_25: -2367778522516329891
+      mall_racks_26: 4999130407751860291
+      mall_racks_27: 468174498530626879
+      mall_racks_28: -7113747192499280384
+      mall_racks_29: -6315810423199827429
+      mall_racks_3: -7356493489007949897
+      mall_racks_30: -1769246818563097584
+      mall_racks_4: -1554706336519914548
+      mall_racks_5: -994090311192596511
+      mall_racks_6: -3489113246075786503
+      mall_racks_7: 7044348168315584005
+      mall_racks_8: 389068293343472211
+      mall_racks_9: -994294600133751824
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

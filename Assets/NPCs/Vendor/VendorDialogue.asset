@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c50066fe62042544793166c1e96c4dfa, type: 3}
+  m_Name: VendorDialogue
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  npcName: Vendor
+  npcPotrait: {fileID: 456460446371542513, guid: 52e5c4eb4a7baf6429ae1223cb064a72, type: 3}
+  dialogueLines:
+  - "Tomatoes \u20B940 per kilo."
+  - 'Transport cost up. Fuel up. '
+  - Wholesale mandi rate up. Everything adds up.
+  - Fresh vegetables are exempt.
+  - "But crates, storage, transport \u2014 not exempt."
+  - Input costs matter.
+  - "For vegetables?  Most don\u2019t ask."
+  - If I give full invoice, I report everything.
+  - Then my turnover crosses threshold.
+  - Then registration becomes mandatory.
+  - Compliance increases. Filing returns every month.
+  - "It\u2019s not about cheaper. It\u2019s about\u2014"
+  - AVOIDANCE
+  autoProgressLines: 01010101010001010001000100
+  endDialogueLines: 00000000000100000000000001
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voicSound: {fileID: 8300000, guid: 290ab61395829904b9f1ca05b5588caf, type: 3}
+  voicePitch: 1
+  choices:
+  - dialogueIndex: 0
+    choices:
+    - Why so high?
+    - Is this with bill?
+    - Leave
+    nextDialogueIndexes: 010000000600000000000000
+    givesQuest: 000000
+  - dialogueIndex: 2
+    choices:
+    - 'What about GST? '
+    - So you increase margin?
+    - Okay
+    nextDialogueIndexes: 030000000000000000000000
+    givesQuest: 000000
+  - dialogueIndex: 8
+    choices:
+    - What happens if threshold is crossed?
+    - So no bill is cheaper?
+    - Leave
+    nextDialogueIndexes: 090000000b00000000000000
+    givesQuest: 000000
+  infoLines:
+  - dialogueIndex: 4
+    infoText: "Exempt \u2192 Not subject to GST\nInput cost \u2192 Cost incurred
+      in producing/supplying goods\n\n"
+  questSequence: []

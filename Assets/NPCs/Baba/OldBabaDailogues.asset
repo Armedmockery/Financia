@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c50066fe62042544793166c1e96c4dfa, type: 3}
+  m_Name: OldBabaDailogues
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  npcName: The Elder
+  npcPotrait: {fileID: 7168534318667288126, guid: aa50aaec02f89434aa6f6b71fbe0f192, type: 3}
+  dialogueLines:
+  - 'Hello '
+  - 'I am a quest giver baba '
+  - 'Do you want a Quest ? '
+  - 'Great !  '
+  - I knew you are a hardworking baalak.
+  - I expect better from you
+  - Jaude next time .
+  - Goodluck with the task.
+  - Great Job arjunnnnnnn . Proud of you.
+  - "You\u2019ve learned how money is earned."
+  - Now learn how it leaves.
+  - "Go to the market. Don\u2019t calculate. Observe."
+  - As expect Arjun , this will help you a lot !
+  - Understanding taxes is very important to power up
+  - 'For securing your future , understanding investments is as important as anything
+    else '
+  - Use your market app in your phone and explore the market
+  - Buy and sell stocks for better understanding
+  - There is no other investment like stocks
+  - Great Job Arjun !
+  - To know how todays system works you need to understand how it works in communities
+    too
+  - 'Talk to the Bhishi community in the park to understand it better '
+  - Great Job Arjun !
+  autoProgressLines: 01010101000100000001010100000101010101010100
+  endDialogueLines: 00000000010001010100000001010000000101000101
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voicSound: {fileID: 8300000, guid: 290ab61395829904b9f1ca05b5588caf, type: 3}
+  voicePitch: 1
+  choices:
+  - dialogueIndex: 2
+    choices:
+    - Yes
+    - No
+    nextDialogueIndexes: 0300000005000000
+    givesQuest: 0100
+  - dialogueIndex: 11
+    choices:
+    - Okay
+    - No
+    nextDialogueIndexes: 0c00000005000000
+    givesQuest: 0100
+  - dialogueIndex: 16
+    choices:
+    - Okay
+    - No
+    nextDialogueIndexes: 0c00000005000000
+    givesQuest: 0100
+  - dialogueIndex: 16
+    choices:
+    - Okay
+    - No
+    nextDialogueIndexes: 0700000005000000
+    givesQuest: 0100
+  infoLines:
+  - dialogueIndex: 0
+    infoText: Quest Giver Baba is the baba who gave us his sword and knowledge to
+      defeat the monsters in this accursed world . He is the one constantly reminding
+      us to " Wake up to Realityyy!!"
+  questSequence:
+  - quest: {fileID: 11400000, guid: 96df4027361984491932b9cc9eadfa0e, type: 2}
+    notStartedDialogueIndex: 9
+    inProgressDialogueIndex: 13
+    completedDialogueIndex: 8
+  - quest: {fileID: 11400000, guid: bc32e4aa54663d84d8157940a444d1bb, type: 2}
+    notStartedDialogueIndex: 9
+    inProgressDialogueIndex: 13
+    completedDialogueIndex: 8
+  - quest: {fileID: 11400000, guid: 8ff14d6e25bcb45c2a138ef6e8b54c91, type: 2}
+    notStartedDialogueIndex: 14
+    inProgressDialogueIndex: 17
+    completedDialogueIndex: 18
+  - quest: {fileID: 11400000, guid: 041c0687bbdd1dc4aadfc850c35d352c, type: 2}
+    notStartedDialogueIndex: 19
+    inProgressDialogueIndex: 21
+    completedDialogueIndex: 8
